@@ -1,0 +1,39 @@
+,,,,
+,,,,
+,,,,
+,,,,
+,,Understanding the performance of LES retail,,
+,,,,
+,,,,
+,,1. Finding the top 10 customers with highest transaction amount,,
+,,,,
+,,Filters ,,
+,,Transcation,All,
+,,Customers,All,
+,,,,
+,,,,
+,,,,
+,,,,
+,,Transaction_id,Customer_id,Sale(INR)
+,,31245038,712345388,"₹7,762.00"
+,,31245012,712345122,"₹6,880.00"
+,,31245029,712345299,"₹5,510.00"
+,,31245028,712345288,"₹4,698.00"
+,,31245025,712345255,"₹4,451.00"
+,,31245039,712345399,"₹4,029.00"
+,,31245044,712345444,"₹3,991.00"
+,,31245011,712345111,"₹3,979.00"
+,,31245021,712345211,"₹3,932.00"
+,,31245013,712345133,"₹3,092.00"
+,,,,
+,,,,
+,,,,
+,,Findings:-,,
+,,1. Top 10 Customers' Contribution:,,
+,,"    The top 10 customers contribute significantly to the total sales, representing 37.3% of the total sales.",,
+,,    This indicates that a small percentage of customers are responsible for a large portion of the revenue.,,
+,,,,
+,,2. Highest Contributing Customer:,,
+,,"   The customer with ID ""712345388"" has the highest sales amounting to ₹7,762.0. ",,
+,,    This customer alone contributes 16% of the total sales among the top 10 customers.,,
+,,    suggests that this customer is highly valuable to the business and might be a key focus for customer retention strategies.,,
